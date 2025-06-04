@@ -33,6 +33,6 @@ Semua test cases **5/5 Passed ✅**
 
 Detail pengujian dan hasil dapat ditemukan pada file laporan:
 
-* **File**: `Manual Testing Saucedemo.html` (jika file ini ada di repo Anda)
+* **File**: `Manual Testing Saucedemo.html` dan `Manual Testing Saucedemo.xlsx`
 
 Ini adalah bagian dari proyek portofolio untuk mendemonstrasikan metodologi *manual testing*.
