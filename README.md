@@ -12,6 +12,8 @@ Pengujian dilakukan untuk memverifikasi fungsionalitas utama SauceDemo, dengan *
 * **Website**: [www.saucedemo.com](https://www.saucedemo.com/)
 * **Test Management**: Qase.io
 * **Documentation**: HTML Report
+* **Documentation**: xlsx Report
+
 
 ### Test Cases yang Diuji
 
