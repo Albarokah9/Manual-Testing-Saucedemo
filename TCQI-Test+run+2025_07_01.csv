@@ -1,0 +1,40 @@
+case_id,title,suite,suite_id,assignee,time_spent_ms,status,finish_time,steps,steps_input_data,steps_expected_result,steps_status,steps_comments,comment,stacktrace,priority,severity,automation,type,tags,is_muted,case_parameter
+1,"Login dengan kredensial valid","Login Valid",1,"Albarokah Rifansah Sutanto Putra",6447,Passed,"2025-07-01 14:33:23","1. * Buka website www.saucedemo.com
+* Masukan username valid yang sudah disediakan
+* Masukkan password valid yang sudah disediakan 
+* Klik tombol login
+","1. Username valid : standar\_user
+Password valid : secret\_sauce
+","1. Pengguna diarahkan ke halaman produk
+","1. Untested
+","1. ",,,High,Normal,Manual,Functional,,false,
+2,"Login Invalid","Login Invalid",2,"Albarokah Rifansah Sutanto Putra",1157,Passed,"2025-07-01 14:33:25","1. * Buka website www.saucedemo.com
+* Masukan username invalid
+* Masukan password invalid 
+* Klik tombol login
+","1. username invalid: standar\_satu
+password invalid: secret\_demo
+","1. Muncul pesan error ""Epic sadface: Username and password do to match any user in this servie""
+","1. Untested
+","1. ",,,Medium,Minor,Manual,Functional,,false,
+3,"Add To Cart","Add To Cart",3,"Albarokah Rifansah Sutanto Putra",1264,Passed,"2025-07-01 14:33:28","1. * Pilih produk 
+* Klik Add to Cart 
+* Buka ikon keranjang
+","1. Memasukan produk berupa Sace Labs Backpack
+","1. Produk muncul dihalaman keranjang
+","1. Untested
+","1. ",,,High,Major,Manual,Functional,,false,
+4,Checkout,Checkout,4,"Albarokah Rifansah Sutanto Putra",924,Passed,"2025-07-01 14:33:29","1. * Klik icon Checkout
+* Isi kolom Fist Name, Last Name dan Zip/Postal Code
+* Klik icon Continue 
+* Klik finish
+","1. 
+","1. Mujncul pesan: ""Thank you for your order"" ""Your order has been dispatched, and will arrive just as fast as the pony can get there!""
+","1. Untested
+","1. ",,,High,Critical,Manual,Other,,false,
+5,Logout,Logout,5,"Albarokah Rifansah Sutanto Putra",1152,Passed,"2025-07-01 14:33:32","1. * Klik icon menu 
+* Pilih Logout
+","1. 
+","1. Pengguna diarahkan kembali ke kahaman login
+","1. Untested
+","1. ",,,Low,Minor,Manual,Functional,,false,
