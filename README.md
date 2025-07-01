@@ -13,6 +13,7 @@ Pengujian dilakukan untuk memverifikasi fungsionalitas utama SauceDemo, dengan *
 * **Test Management**: Qase.io
 * **Documentation**: HTML Report
 * **Documentation**: xlsx Report
+* **Report Link**: https://app.qase.io/public/report/9795c8c39806524ef1aa57b62d1d510959f1bee8
 
 
 ### Test Cases yang Diuji
